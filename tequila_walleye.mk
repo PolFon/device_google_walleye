@@ -35,11 +35,11 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += com.android.vndk.current.on_vendor
 
-PRODUCT_MANUFACTURER := Google
+PRODUCT_MANUFACTURER := PolTech
 PRODUCT_BRAND := google
 PRODUCT_NAME := tequila_walleye
 PRODUCT_DEVICE := walleye
-PRODUCT_MODEL := Pixel 2
+PRODUCT_MODEL := PolFon 1
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=walleye \

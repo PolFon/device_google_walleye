@@ -21,5 +21,5 @@
     <bool name="def_apply_ramping_ringer">false</bool>
 
     <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
-    <string name="def_device_name_simple">Pixel 2</string>
+    <string name="def_device_name_simple">PolFon 1</string>
 </resources>
